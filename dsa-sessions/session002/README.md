@@ -33,7 +33,9 @@
 
 ## Slides
 
-[Link for slides(Arrays)](https://docs.google.com/presentation/d/1YNI1Q2LA-P-8bBCNvm0PP_VIYdrlzVFBUN3Hjai2mvg/edit?usp=sharing)
+[Link for slide(Arrays)](https://docs.google.com/presentation/d/1YNI1Q2LA-P-8bBCNvm0PP_VIYdrlzVFBUN3Hjai2mvg/edit?usp=sharing)
+
+[Link for slide(Pointers)](https://docs.google.com/presentation/d/1788kWiRXiD1kMEOVRVTdTnB7t10czSnQlmQJxDzLU9M/edit?usp=sharing)
 
 ## Problem set
 
