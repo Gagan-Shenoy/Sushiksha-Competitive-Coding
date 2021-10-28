@@ -23,10 +23,12 @@
 [loops in c++](https://www.dotnettricks.com/learn/cpp/loop-statements-for-do-while-examples)
 
 ## Recording
-[Link for recording](https://stackedit.io/app#)
+[Link for recording part 1](https://drive.google.com/file/d/1QR6qgui_Xpv535AV0V4jjkJeDpYDsHRF/view?usp=sharing)
+
+[Link for recording part 2](https://drive.google.com/file/d/1MMiiVvAFMEOWpDniZl8g9KTf0zCLLoLY/view?usp=sharing)
 ## Slides
-[Link for slides](https://docs.google.com/presentation/d/1viqAUg0yzKX6Gks-Nli_N8aXRPIQq22CStXhSvOkSx0/edit#slide=id.gf712b992a5_0_61)
+[Link for slides](https://docs.google.com/presentation/d/1viqAUg0yzKX6Gks-Nli_N8aXRPIQq22CStXhSvOkSx0/edit?usp=sharing)
 ## Problem set
 [Link for problem set](https://docs.google.com/document/d/1m0bhe-PNuHzkqeuuhmSTIgKVVtBaB6SgoQdHJ-ZQtyI/edit?usp=sharing)
 ## Solution set
-[Link for solution set](https://stackedit.io/app#)
+[Link for solution set](https://docs.google.com/document/d/1iSPUuBdX0Kdv4ba8SYaqqaWwiFGDJSg0O7qEb_7en2o/edit?usp=sharing)
